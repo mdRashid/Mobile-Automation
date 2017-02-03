@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite on Android Phone">
+
+    <test name="GrubHub Tests">
+        <classes>
+            <!--<class name="LoginTest.TestLogin"/>-->
+            <!--<class name="UITesting.TestingScheduledOrders"/>-->
+            <!--<class name="UITesting.TestingTrackYourOrder"/>-->
+            <class name="UITesting.TestingFavorites"/>
+            <!--<class name="UITesting.TestingPastOrders"/>-->
+            <!--<class name="UITesting.TestingStartAFreshSearch"/>-->
+            <!--<class name="UITesting.TestingGiftCards"/>-->
+            <!--<class name="UITesting.TestingContactUs"/>-->
+        </classes>
+    </test>
+
+</suite>
