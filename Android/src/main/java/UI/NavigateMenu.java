@@ -96,7 +96,7 @@ public class NavigateMenu extends CommonMethodsGH {
     public StartAFreshSearch uStartAFreshSearch() throws InterruptedException {
         btnMenu.click();
         startAFreshSearch.click();
-        Thread.sleep(3000);
+        Thread.sleep(8000);
         return new StartAFreshSearch();
     }
 

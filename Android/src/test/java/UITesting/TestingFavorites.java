@@ -10,12 +10,30 @@ import org.testng.annotations.Test;
  */
 public class TestingFavorites extends NavigateMenu {
 
-    @Test
-    public void testingFavorites() throws InterruptedException {
+    //@Test
+    public void testingFirstFavorite() throws InterruptedException {
 
         CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
         commonMethodsGH.logIn();
         NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
-        uFavorites().doSomething2();
+        uFavorites().selectFirstFavorite();
+    }
+
+    //@Test
+    public void testingSecondFavorite() throws InterruptedException {
+
+        CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
+        commonMethodsGH.logIn();
+        NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
+        uFavorites().selectSecondFavorite();
+    }
+
+    @Test
+    public void testingThirdFavorite() throws InterruptedException {
+
+        CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
+        commonMethodsGH.logIn();
+        NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
+        uFavorites().selectThirdFavorite();
     }
 }
