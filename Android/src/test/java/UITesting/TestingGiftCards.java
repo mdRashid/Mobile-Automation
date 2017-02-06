@@ -11,11 +11,20 @@ import org.testng.annotations.Test;
 public class TestingGiftCards extends NavigateMenu {
 
     @Test
-    public void testingGiftCards() throws InterruptedException {
+    public void testingPurchaseAGiftCard() throws InterruptedException {
 
         CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
         commonMethodsGH.logIn();
         NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
-        uGiftCards().doSomething5();
+        uGiftCards().selectPurchaseAGiftCard();
+    }
+
+    //@Test
+    public void testingCheckYourGiftCardBalance() throws InterruptedException {
+
+        CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
+        commonMethodsGH.logIn();
+        NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
+        uGiftCards().selectCheckYourGiftCardBalance();
     }
 }

@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bce2e71-bb9b-437b-b1b8-a52c307c8724" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/classes/UI/NavigateMenu.class" afterPath="$PROJECT_DIR$/Android/target/classes/UI/NavigateMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/classes/UI/UIFavorites/Favorites.class" afterPath="$PROJECT_DIR$/Android/target/classes/UI/UIFavorites/Favorites.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/classes/UI/UIStartAFreshSearch/StartAFreshSearch.class" afterPath="$PROJECT_DIR$/Android/target/classes/UI/UIStartAFreshSearch/StartAFreshSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingFavorites.class" afterPath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingFavorites.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingStartAFreshSearch.class" afterPath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingStartAFreshSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" afterPath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/classes/UI/UIGiftCards/GiftCards.class" afterPath="$PROJECT_DIR$/Android/target/classes/UI/UIGiftCards/GiftCards.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingGiftCards.class" afterPath="$PROJECT_DIR$/Android/target/test-classes/UITesting/TestingGiftCards.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java" afterPath="$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/main/java/UI/UIFavorites/Favorites.java" afterPath="$PROJECT_DIR$/Android/src/main/java/UI/UIFavorites/Favorites.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java" afterPath="$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingFavorites.java" afterPath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingFavorites.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java" afterPath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java" afterPath="$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java" afterPath="$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java" afterPath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java" afterPath="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml" afterPath="$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/target/test-classes/GrubHubAppTestRunner.xml" afterPath="$PROJECT_DIR$/Android/target/test-classes/GrubHubAppTestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,20 +32,8 @@
       <file leaf-file-name="NavigateMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestingContactUs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="1365">
+              <caret line="105" column="22" lean-forward="false" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,8 +44,18 @@
       <file leaf-file-name="ContactUs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestingContactUs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -70,26 +64,14 @@
       <file leaf-file-name="GrubHubAppTestRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="195">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestingStartAFreshSearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestingStartAFreshSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -101,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartAFreshSearch.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StartAFreshSearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="150">
               <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,9 +108,21 @@
       <file leaf-file-name="GiftCards.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="-15">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestingGiftCards.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,9 +132,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,17 +168,17 @@
         <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingTrackYourOrder.java" />
         <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIPastOrders/PastOrders.java" />
         <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingPastOrders.java" />
-        <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java" />
-        <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java" />
-        <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java" />
         <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
-        <option value="$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java" />
         <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java" />
         <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java" />
         <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIFavorites/Favorites.java" />
-        <option value="$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml" />
         <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingFavorites.java" />
+        <option value="$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java" />
+        <option value="$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java" />
+        <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java" />
+        <option value="$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java" />
       </list>
     </option>
   </component>
@@ -301,6 +293,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -678,8 +672,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -971,24 +963,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 14h 02m 18s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 20h 46m 33s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 20h 58m 52s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 21h 01m 09s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 21h 07m 09s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 22h 03m 00s.xml">
-      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 22h 06m 01s.xml">
       <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -1001,6 +975,24 @@
     <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.05 at 22h 41m 30s.xml">
       <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 11h 56m 59s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 11h 59m 25s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 12h 01m 50s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 12h 10m 10s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 12h 31m 59s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_icecube_IdeaProjects_Mobile-Automation_Android_src_test_resources_GrubHubAppTestRunner_xml - 2017.02.06 at 12h 34m 01s.xml">
+      <configuration name="/Users/icecube/IdeaProjects/Mobile-Automation/Android/src/test/resources/GrubHubAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="56" width="1400" height="773" extended-state="0" />
@@ -1009,13 +1001,14 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1025,13 +1018,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1090,9 +1082,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,9 +1135,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,9 +1188,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
           <caret line="106" column="56" lean-forward="false" selection-start-line="106" selection-start-column="56" selection-end-line="106" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,9 +1241,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,38 +1339,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingFavorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1395,28 +1367,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/NavigateMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+        <state relative-caret-position="1365">
+          <caret line="105" column="22" lean-forward="false" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java">
+    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingGiftCards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="135">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Android/src/test/resources/GrubHubAppTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="195">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIContactUs/ContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1429,28 +1425,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIGiftCards/GiftCards.java">
+    <entry file="file://$PROJECT_DIR$/Android/src/main/java/UI/UIStartAFreshSearch/StartAFreshSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingFavorites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Android/src/test/java/UITesting/TestingStartAFreshSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

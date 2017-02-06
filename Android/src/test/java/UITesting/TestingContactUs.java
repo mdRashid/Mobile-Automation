@@ -16,6 +16,6 @@ public class TestingContactUs extends NavigateMenu {
         CommonMethodsGH commonMethodsGH = PageFactory.initElements(ad, CommonMethodsGH.class);
         commonMethodsGH.logIn();
         NavigateMenu navigateMenu = PageFactory.initElements(ad, NavigateMenu.class);
-        uContactUs().doSomething6();
+        uContactUs().selectChatWithUs();
     }
 }
