@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>Android</module>
+        <module>iOS</module>
     </modules>
 
     <dependencyManagement>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="iOS test suite on iOS Phone">
+
+    <parameter name="OS" value="ios"/>
+    <parameter name="deviceName" value="iPhone 6"/>
+
+    <test name="Catalog Tests">
+        <classes>
+            <!--<class name="UITesting.TestingButtons"/>-->
+            <!--<class name="UITesting.TestingControls"/>-->
+            <!--<class name="UITesting.TestingTextFields"/>-->
+            <!--<class name="UITesting.TestingSearchBar"/>-->
+            <!--<class name="UITesting.TestingTextView"/>-->
+            <!--<class name="UITesting.TestingPickers"/>-->
+            <!--<class name="UITesting.TestingImages"/>-->
+            <!--<class name="UITesting.TestingWeb"/>-->
+            <!--<class name="UITesting.TestingSegments"/>-->
+            <!--<class name="UITesting.TestingToolbar"/>-->
+            <class name="UITesting.TestingAlerts"/>
+            <!--<class name="UITesting.TestingTransitions"/>-->
+        </classes>
+    </test>
+
+</suite>

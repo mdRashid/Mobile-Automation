@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Android" />
         <module name="Generic" />
+        <module name="iOS" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Android" target="1.5" />
+      <module name="Android" target="1.8" />
       <module name="Generic" target="1.5" />
+      <module name="iOS" target="1.8" />
       <module name="Mobile-Automation" target="1.5" />
     </bytecodeTargetLevel>
   </component>
